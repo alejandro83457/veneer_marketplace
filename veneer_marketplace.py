@@ -87,3 +87,5 @@ edytta.sell_artwork(girl_with_mandolin, '$6M (USD)')
 moma.buy_artwork(girl_with_mandolin)
 print(girl_with_mandolin)
 veneer.show_listings()
+
+# This is a test
